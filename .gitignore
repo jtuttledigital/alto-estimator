@@ -24,3 +24,8 @@ pnpm-debug.log*
 Thumbs.db
 .idea/
 .vscode/
+
+# TypeScript
+next-env.d.ts
+tsconfig.tsbuildinfo
+
